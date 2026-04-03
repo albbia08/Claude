@@ -1,6 +1,14 @@
+# Context Files
+
+@my-rules.md
+
+---
+
 # About Me
 
 I am a Finance Functional Consultant working on a Microsoft Dynamics 365 global rollout program at **Trelleborg**.
+
+> Note: `about-me.md` and `my-voice.md` are referenced in my-rules.md but do not exist yet. Create them and add `@about-me.md` / `@my-voice.md` imports above when ready.
 
 # Project Context
 
@@ -8,7 +16,7 @@ We are consolidating the **D365 Core Model** across multiple entities migrating 
 
 ## D365 Modules in Scope
 
-Finance, Supply Chain Management (SCM), Sales, Concept to Product, Production, Warehouse Management
+Finance (GL, AP, AR, Fixed Assets, Cash & Bank Management), Supply Chain Management (SCM), Sales, Concept to Product, Production, Warehouse Management
 
 ## Collaboration Tools
 

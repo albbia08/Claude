@@ -6,7 +6,7 @@
 
 # About Me
 
-I am a Finance Functional Consultant working on a Microsoft Dynamics 365 global rollout program at **Trelleborg**.
+I am a Finance Functional Consultant working on a Microsoft Dynamics 365 global rollout program.
 
 > Note: `about-me.md` and `my-voice.md` are referenced in my-rules.md but do not exist yet. Create them and add `@about-me.md` / `@my-voice.md` imports above when ready.
 
